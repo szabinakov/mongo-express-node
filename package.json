@@ -1,0 +1,23 @@
+{
+  "name": "mongo-express-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szabinakov/mongo-express-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szabinakov/mongo-express-node/issues"
+  },
+  "homepage": "https://github.com/szabinakov/mongo-express-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
